@@ -1,0 +1,242 @@
+
+======================================================================
+  SOURCE    : BBC News     — Latest Headlines
+  SCRAPED AT: 2026-05-17  15:37:01
+  RESULTS   : 1
+======================================================================
+
+[1] The BBC is in multiple languages
+
+
+======================================================================
+  SOURCE    : BBC News     — Latest Headlines
+  SCRAPED AT: 2026-05-17  15:37:20
+  RESULTS   : 1
+======================================================================
+
+[1] The BBC is in multiple languages
+
+
+======================================================================
+  SOURCE    : Hacker News    — Top Stories (API)
+  SCRAPED AT: 2026-05-17  15:50:17
+  RESULTS   : 30
+======================================================================
+
+[1] I believe there are entire companies right now under AI psychosis
+     Score  : 1976 points
+     Link   : https://twitter.com/mitchellh/status/2055380239711457578
+
+[2] Moving away from Tailwind, and learning to structure my CSS
+     Score  : 545 points
+     Link   : https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/
+
+[3] Zerostack – A Unix-inspired coding agent written in pure Rust
+     Score  : 400 points
+     Link   : https://crates.io/crates/zerostack/1.0.0
+
+[4] Frontier AI has broken the open CTF format
+     Score  : 378 points
+     Link   : https://kabir.au/blog/the-ctf-scene-is-dead
+
+[5] SANA-WM, a 2.6B open-source world model for 1-minute 720p video
+     Score  : 342 points
+     Link   : https://nvlabs.github.io/Sana/WM/
+
+[6] We've made the world too complicated
+     Score  : 299 points
+     Link   : https://user8.bearblog.dev/the-world-is-too-complicated/
+
+[7] Accelerando (2005)
+     Score  : 293 points
+     Link   : https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html
+
+[8] δ-mem: Efficient Online Memory for Large Language Models
+     Score  : 217 points
+     Link   : https://arxiv.org/abs/2605.12357
+
+[9] Mozilla to UK regulators: VPNs are essential privacy and security tools
+     Score  : 201 points
+     Link   : https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/
+
+[10] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens
+     Score  : 191 points
+     Link   : https://openai.com/index/malta-chatgpt-plus-partnership/
+
+[11] A nicer voltmeter clock
+     Score  : 186 points
+     Link   : https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock
+
+[12] Halt and Catch Fire
+     Score  : 140 points
+     Link   : https://unstack.io/halt-and-catch-fire
+
+[13] C++26 Shipped a SIMD Library Nobody Asked For
+     Score  : 136 points
+     Link   : https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody
+
+[14] Hosting a website on an 8-bit microcontroller
+     Score  : 131 points
+     Link   : https://maurycyz.com/projects/mcusite/
+
+[15] Greek Alphabet Cards
+     Score  : 127 points
+     Link   : https://labs.randomquark.com/alphabet_cards/
+
+[16] Kioxia and Dell cram 10 PB into slim 2RU server
+     Score  : 126 points
+     Link   : https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574
+
+[17] Colossus: The Forbin Project
+     Score  : 105 points
+     Link   : https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project
+
+[18] MCP Hello Page
+     Score  : 98 points
+     Link   : https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page
+
+[19] A molecule with half-Möbius topology
+     Score  : 95 points
+     Link   : https://www.science.org/doi/10.1126/science.aea3321
+
+[20] 3D Gaussian Splatting in a Weekend
+     Score  : 94 points
+     Link   : https://bfeldman.me/3dgs-weekend/
+
+[21] Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol
+     Score  : 79 points
+     Link   : https://tangled.org/rocksky.app/rocksky
+
+[22] The Third Hard Problem
+     Score  : 74 points
+     Link   : https://mmapped.blog/posts/48-the-third-hard-problem
+
+[23] Self-Distillation Enables Continual Learning [pdf]
+     Score  : 63 points
+     Link   : https://arxiv.org/abs/2601.19897
+
+[24] Content-defined chunking added to Bazel
+     Score  : 53 points
+     Link   : https://www.buildbuddy.io/blog/content-defined-chunking/
+
+[25] Unknowable Math Can Help Hide Secrets
+     Score  : 51 points
+     Link   : https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/
+
+[26] Illusions of understanding in the sciences
+     Score  : 45 points
+     Link   : https://link.springer.com/article/10.1007/s42113-026-00271-1
+
+[27] Playing Atari ST Music on the Amiga with Zero CPU
+     Score  : 36 points
+     Link   : https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/
+
+[28] Why did Clovis toolmakers choose difficult quartz crystal?
+     Score  : 26 points
+     Link   : https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html
+
+[29] Roman Letters
+     Score  : 22 points
+     Link   : https://romanletters.org/
+
+[30] Twilight of the Velocipede: Typesetting Races Before the Age of Linotype
+     Score  : 15 points
+     Link   : https://publicdomainreview.org/essay/twilight-of-the-velocipede/
+
+
+======================================================================
+  SOURCE    : BBC News       — Latest Headlines
+  SCRAPED AT: 2026-05-17  15:50:31
+  RESULTS   : 30
+======================================================================
+
+[1] WHO declares Ebola outbreak in DR Congo a global health emergency
+     Link   : https://www.bbc.com/news/articles/c2l2p0wwzzdo
+
+[2] Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
+     Link   : https://www.bbc.com/news/articles/c5ye480kxpmo
+
+[3] Labour leadership jostling puts Brexit back under political spotlight
+     Link   : https://www.bbc.com/news/articles/c5y7l265pe8o
+
+[4] Hezbollah drone strike videos show evolving tactics against Israel
+     Link   : https://www.bbc.com/news/articles/c1j2zwe9g5no
+
+[5] Bangaranga! Bulgaria wins Eurovision - but UK comes last
+     Link   : https://www.bbc.com/news/articles/c8d87v9v660o
+
+[6] Lights, camera, Bangaranga: Highlights from Eurovision
+     Link   : https://www.bbc.com/news/videos/cj3pznr0zr4o
+
+[7] Foreign tourists are falling out of love with Goa - here's why
+     Link   : https://www.bbc.com/news/articles/cy827p9lg03o
+
+[8] Freight train and bus crash kills at least eight in Bangkok
+     Link   : https://www.bbc.com/news/articles/c98rez3x0nwo
+
+[9] Man drives car into pedestrians in Italy, injuring eight
+     Link   : https://www.bbc.com/news/articles/cyv28pd4n22o
+
+[10] Taiwan insists it is independent after Trump warning
+     Link   : https://www.bbc.com/news/articles/cx2132w81jqo
+
+[11] Trump-backed challenger defeats Republican senator who voted to convict president
+     Link   : https://www.bbc.com/news/articles/cx21d4pxq23o
+
+[12] Tens of thousands join rival marches in London
+     Link   : https://www.bbc.com/news/articles/c3d2ryyz0jzo
+
+[13] Canadian from hantavirus-hit cruise ship tests positive
+     Link   : https://www.bbc.com/news/articles/c2k2p057ezno
+
+[14] How rival protesters in London were kept apart by £4.5m police operation
+     Link   : https://www.bbc.com/news/articles/ckgpznn202po
+
+[15] For half the month I want to live, the other half I want to die - living with PMDD
+     Link   : https://www.bbc.com/news/articles/cx21kypwpzno
+
+[16] Is it harder than ever to be UK prime minister?
+     Link   : https://www.bbc.com/news/articles/cqjpe7q0j1xo
+
+[17] Secret police and propaganda: The Chinese agents spying on expats in US
+     Link   : https://www.bbc.com/news/articles/cm2p8z261ylo
+
+[18] 'Look Mum, one point': Why does the UK keep getting Eurovision wrong?
+     Link   : https://www.bbc.com/news/articles/cy72e81dp28o
+
+[19] Alleged murder of Aboriginal girl highlights Australia's deep inequalities
+     Link   : https://www.bbc.com/news/articles/cq6p57mnz9lo
+
+[20] The girl group who've sold out venues and toured the world - without releasing a record
+     Link   : https://www.bbc.com/news/articles/cz721w33ve1o
+
+[21] Watch: Meet the Americans who love Eurovision
+     Link   : https://www.bbc.com/news/videos/cm2pwne21kdo
+
+[22] 'Our objective is to change the image around women in trad'
+     Link   : https://www.bbc.com/news/videos/cn0pr407r43o
+
+[23] Waymo driverless cars become trapped in Atlanta suburb after glitch
+     Link   : https://www.bbc.com/news/videos/czx20g00ly1o
+
+[24] What is Bangaranga? Bulgaria's Eurovision banger explained
+     Link   : https://www.bbc.com/news/videos/cpqpv2153dvo
+
+[25] British soprano Dame Felicity Lott dies aged 79
+     Link   : https://www.bbc.com/news/articles/cpqp1938d8do
+
+[26] British jets to get new anti-drone missile systems
+     Link   : https://www.bbc.com/news/articles/cy02ypz1w84o
+
+[27] Man killed by 13ft shark in Western Australia
+     Link   : https://www.bbc.com/news/articles/c1m2xy3dr20o
+
+[28] Rescue diver dies during search for bodies of Italians who drowned in Maldives caves
+     Link   : https://www.bbc.com/news/articles/c1w2gv1gdnjo
+
+[29] Toddlers among more than 50 schoolchildren kidnapped in Nigeria
+     Link   : https://www.bbc.com/news/articles/c202vrxlwqgo
+
+[30] Trump and Xi conclude 'very successful' talks but few deals confirmed
+     Link   : https://www.bbc.com/news/articles/clypj01189lo
+
