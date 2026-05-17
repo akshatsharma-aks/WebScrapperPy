@@ -176,10 +176,10 @@ python main.py
 
 ## 👤 Author
 
-**[Your Full Name]**
-B.Tech CSE — [Year]
-[College Name]
-GitHub: [@yourusername](https://github.com/yourusername)
+**Akshat Sharma**
+B.Tech CSE — 3rd Year
+Sharda University
+GitHub: [@akshatsharma-aks](https://github.com/akshatsharma-aks)
 
 ---
 
